@@ -27,7 +27,6 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "localize": ["ar-EG"],
             "outputPath": "dist/link-project",
             "index": "src/index.html",
             "main": "src/main.ts",
